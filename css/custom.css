@@ -1,5 +1,5 @@
 #site-head {
-  background: #769b9c no-repeat center center;
+  background: rgb(85,109,114) no-repeat center center;
   background-size: cover;
 }
 
@@ -17,28 +17,28 @@
 
 /* Links */
 a {
-  color: #b6b84c;
+  color: #e8bf36;
 }
 
 a:hover {
-  color: #ced067;
+  color: #937513;
 }
 
 /* Header Buttons on Startpage */
 a.btn {
   color: white;
-  background-color: #b6b84c;
+  background-color: #e8bf36;
 }
 a.btn:hover {
-  background-color: #ced067;
+  background-color: #937513;
 }
 
 /* Scroll Menu on Startpage */
 a.fn-item.active {
-  color: #b6b84c;
+  color: #e8bf36;
 }
 a.fn-item:hover {
-  color: #ced067;
+  color: #937513;
 }
 
 /* Content / Sections */
