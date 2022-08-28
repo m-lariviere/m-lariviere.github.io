@@ -48,7 +48,8 @@ a.fn-item:hover {
   color:rgb(230, 230, 230);
 }
 
-.post-holder.odd h2 a {
+.post-holder h3 a,
+.post-holder.odd h3 a {
   color: inherit;
 }
 
@@ -77,6 +78,10 @@ body {
 
 hr {
   margin: 1.5em 0;
+}
+
+.post-holder hr {
+  border-top: inherit;
 }
 
 /* Form */
